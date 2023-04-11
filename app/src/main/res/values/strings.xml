@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Adam Restaurant Ratings</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="Login">Login</string>
+    <string name="Email">Email</string>
+    <string name="NameText">Name</string>
+    <string name="Rating">Rating</string>
+    <string name="Location">Location</string>
+    <string name="AddResturantText">Add Restaurant</string>
+    <string name="ResturantNameText">Restaurant Name</string>
+    <string name="ResturantLocationText">Restaurant Location</string>
+    <string name="AddRestaurantButton">Add Restaurant</string>
+    <string name="DeveloperInfo">Adam Solomon</string>
+    <string name= "VersionInfo">Version 1.0</string>
+    <string name="MinInfo">Choose Minimum Filter Rating </string>
+    <string name="setFilterButton">SET FILTER</string>
+    <string name="ResturantsText">Restaurants</string>
+    <string name="RatingFilter">Filter by Rating</string>
+    <string name="ClearFilter">Clear Filter</string>
+    <string name="AppInfo">App info</string>
+
+    <string name="errorMessage">please fill out all fields and enter the correct User Info</string>
+    <string name="seconderrorMessage"> Please fill out all Restaurant Fields </string>
+    <string name="Loginerror">Login Unsuccessful</string>
+
+
+</resources>
